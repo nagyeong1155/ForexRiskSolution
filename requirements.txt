@@ -1,0 +1,8 @@
+streamlit
+pandas
+streamlit-extras
+streamlit-autorefresh
+numpy==1.26.4
+matplotlib==3.8.4
+konlpy==0.6.0
+finance-datareader==0.9.94
